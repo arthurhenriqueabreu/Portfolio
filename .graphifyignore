@@ -1,0 +1,13 @@
+# Runtime and generated application output
+node_modules/
+.pnpm-store/
+.graphify-venv/
+.next/
+.vinext/
+dist/
+.wrangler/
+
+# Generated binary assets do not add structural code relationships
+public/assets/
+public/og.png
+public/favicon.png

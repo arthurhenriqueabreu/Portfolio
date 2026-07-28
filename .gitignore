@@ -42,3 +42,6 @@ next-env.d.ts
 /work/
 
 /.pnpm-store/
+
+# project-local Graphify runtime
+/.graphify-venv/

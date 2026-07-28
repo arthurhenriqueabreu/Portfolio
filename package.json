@@ -11,7 +11,10 @@
                     "start":  "vinext start",
                     "test":  "npm run build \u0026\u0026 node --test tests/rendered-html.test.mjs",
                     "lint":  "eslint . --ignore-pattern dist --ignore-pattern .next",
-                    "db:generate":  "drizzle-kit generate"
+                    "db:generate":  "drizzle-kit generate",
+                    "graph:build":  "\".graphify-venv\\Scripts\\graphify.exe\" extract . --code-only --max-workers 4",
+                    "graph:update":  "\".graphify-venv\\Scripts\\graphify.exe\" update .",
+                    "graph:query":  "\".graphify-venv\\Scripts\\graphify.exe\" query"
                 },
     "dependencies":  {
                          "drizzle-orm":  "0.45.2",
