@@ -70,8 +70,8 @@
     "semantic_hash": "025f4fcb6024b3524d19492cf7ce54a2"
   },
   "package.json": {
-    "mtime": 1785288609.066501,
-    "ast_hash": "004a491e40e3559efb205e27d0a91622",
+    "mtime": 1785198115.7499354,
+    "ast_hash": "b8389a9e49c2299570f2a7fdc81b263a",
     "semantic_hash": ""
   },
   "postcss.config.mjs": {
@@ -85,13 +85,13 @@
     "semantic_hash": ""
   },
   "src/components/HotelSections.tsx": {
-    "mtime": 1785287582.2724836,
-    "ast_hash": "d588e07c8d244498d584610db216796d",
+    "mtime": 1785286951.7556436,
+    "ast_hash": "2b685bafcd601ec97751aee0029dddf8",
     "semantic_hash": ""
   },
   "src/components/Navigation.tsx": {
-    "mtime": 1785287502.8402493,
-    "ast_hash": "475d4419782f3f37f9b6189f17f2d30d",
+    "mtime": 1785282001.1158135,
+    "ast_hash": "8cc56208d501e1652bd2d82babbf93e7",
     "semantic_hash": ""
   },
   "src/components/PixelUI.tsx": {
@@ -100,14 +100,14 @@
     "semantic_hash": "32218897ab365bd8e97b6c1a05308254"
   },
   "src/data/portfolio.ts": {
-    "mtime": 1785287417.623189,
-    "ast_hash": "20d16fe34eef70c9b9c418c426af705c",
-    "semantic_hash": ""
+    "mtime": 1785196924.8708336,
+    "ast_hash": "c0cc09e4a5b6d0d5162a8eb8b1b4a549",
+    "semantic_hash": "c0cc09e4a5b6d0d5162a8eb8b1b4a549"
   },
   "src/data/projects.ts": {
-    "mtime": 1785287476.3365252,
-    "ast_hash": "2a3276a2097416f9a5d2df89f17456d8",
-    "semantic_hash": ""
+    "mtime": 1785196924.8787565,
+    "ast_hash": "0c378e8e4243a3e302529a6a640dbc7d",
+    "semantic_hash": "0c378e8e4243a3e302529a6a640dbc7d"
   },
   "src/pages/Home.tsx": {
     "mtime": 1785196924.902447,
@@ -120,24 +120,24 @@
     "semantic_hash": "d52d8a0c01c88e6b9f0537d8ba38e218"
   },
   "src/pages/ProjectDetails.tsx": {
-    "mtime": 1785287627.5693157,
-    "ast_hash": "ac003443f8a5f3c86a3586821e9f894b",
-    "semantic_hash": ""
+    "mtime": 1785196924.9182007,
+    "ast_hash": "d701aafcd58a524582836f632dd534b3",
+    "semantic_hash": "d701aafcd58a524582836f632dd534b3"
   },
   "src/types/index.ts": {
-    "mtime": 1785287417.621193,
-    "ast_hash": "402ff15a6ffd7253034b88cd423a1724",
-    "semantic_hash": ""
+    "mtime": 1785196924.8673346,
+    "ast_hash": "806509683cacc574df5d6a20a4036db4",
+    "semantic_hash": "806509683cacc574df5d6a20a4036db4"
   },
   "tests/rendered-html.test.mjs": {
-    "mtime": 1785289420.2617147,
-    "ast_hash": "c564ba9c0c08f80216d95c76934e4c87",
-    "semantic_hash": ""
+    "mtime": 1785194837.6787236,
+    "ast_hash": "4ea5162bf0f6bf981ac267c72fc15e76",
+    "semantic_hash": "4ea5162bf0f6bf981ac267c72fc15e76"
   },
   "tsconfig.json": {
-    "mtime": 1785288642.41742,
-    "ast_hash": "f9f8504c3595390528e9f3b072ff649c",
-    "semantic_hash": ""
+    "mtime": 1785194837.7004843,
+    "ast_hash": "ab575e944f15d39a5486cf9fca385c5e",
+    "semantic_hash": "ab575e944f15d39a5486cf9fca385c5e"
   },
   "vite.config.ts": {
     "mtime": 1785194837.7253776,
@@ -227,36 +227,6 @@
   "public/window.svg": {
     "mtime": 1785194837.6196413,
     "ast_hash": "a2760511c65806022ad20adf74370ff3",
-    "semantic_hash": ""
-  },
-  "cloudflare-env.d.ts": {
-    "mtime": 1785288682.4974782,
-    "ast_hash": "29c89b54af96f8d342bb7b18edec356c",
-    "semantic_hash": ""
-  },
-  "src/data/site.ts": {
-    "mtime": 1785287595.4382255,
-    "ast_hash": "b76967613ed2ea4a945e44c269f1bd2c",
-    "semantic_hash": ""
-  },
-  "public/images/projects/mega-notes-assistant.webp": {
-    "mtime": 1785288433.3200674,
-    "ast_hash": "bde02646485ae43ecc37421e9ef0e58d",
-    "semantic_hash": ""
-  },
-  "public/images/projects/megahub.webp": {
-    "mtime": 1785288434.49555,
-    "ast_hash": "4bb9093c9273f303ab42698473d49ac2",
-    "semantic_hash": ""
-  },
-  "public/images/projects/nfse-assistant.webp": {
-    "mtime": 1785288434.1025198,
-    "ast_hash": "06618b2a6bcad1d58af7318d46b1f994",
-    "semantic_hash": ""
-  },
-  "public/images/projects/voice-equipment-intake.webp": {
-    "mtime": 1785288433.695782,
-    "ast_hash": "eedb530996a4dd90ea06da59bf6189aa",
     "semantic_hash": ""
   }
 }

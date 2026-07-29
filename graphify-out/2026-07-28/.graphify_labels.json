@@ -17,7 +17,7 @@
   "15": "postcss.config.mjs",
   "16": "vite.config.ts",
   "17": "drizzle.config.ts",
-  "18": "cloudflare-env.d.ts",
+  "18": "/graphify",
   "19": "graphify reference: extra exports and benchmark",
   "20": "Hotel Arthur â€” PortfÃ³lio pixel art",
   "21": "graphify reference: query, path, explain",
@@ -27,5 +27,6 @@
   "25": "graphify reference: GitHub clone and cross-repo merge",
   "26": "graphify reference: transcribe video and audio",
   "27": "AGENTS.md",
-  "28": "extraction-spec.md"
+  "28": "extraction-spec.md",
+  "29": "ProjectDetails.tsx"
 }
