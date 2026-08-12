@@ -5,7 +5,7 @@ Portfólio pessoal de Arthur Henrique Abreu apresentado como um hotel profission
 O projeto preserva uma identidade visual inspirada em pixel art, com navegação por andares, quartos individuais para os projetos e um personagem animado que acompanha a exploração da página.
 
 ## Tecnologias
-
+  
 - React 19
 - TypeScript
 - Vite e vinext
